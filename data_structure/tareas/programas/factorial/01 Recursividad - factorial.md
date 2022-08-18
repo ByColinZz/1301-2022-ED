@@ -38,3 +38,5 @@ factTail(n, a) {
 		return factTail(n - 1, n * a)
 }
 ```
+
+3. Indique la complejidad de cada uno de los algoritmos desarrollados.
