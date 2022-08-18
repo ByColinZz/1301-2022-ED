@@ -2,7 +2,7 @@
 
 Desarrolle el algoritmo de recursión para el cálculo del factorial de n donde n, es un número cualquiera.
 
-![](../../../assets/factorial winding and unwinding.png)
+![diagram1](./../../../assets/factorial winding and unwinding.png)
 
 1. Deberá realizar el cálculo mediante el uso de recursión, el programa deberá ser llamado factorial_recursivo.c
 	Considere que la expresión matemática para el cálculo recursivo del factorial es la siguiente.
