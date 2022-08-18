@@ -1,6 +1,6 @@
 # Recursividad
 
-Desarrolle el algoritmo de recursión para el cálculo del factorial de n donde n, es un número cualquiera.
+Desarrolle el algoritmo de recursión para el cálculo del factorial de n, donde n es un número cualquiera.
 
 ![diagram1](../../../assets/factorial_winding_unwinding.png)
 
