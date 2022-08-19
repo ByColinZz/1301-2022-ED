@@ -27,7 +27,7 @@ Para comprender cómo funciona la recursividad de cola, consideremos lo siguient
 
 ## Actividad
 
-Desarrolle el algoritmo de recursión para el cálculo del factorial de n donde n, es un número cualquiera.
+Desarrolle el algoritmo de recursión para el cálculo del factorial de n, donde n es un número cualquiera.
 
 1. Deberá realizar el cálculo mediante el uso de recursión, el programa deberá ser llamado factorial_recursivo.c
 	Considere que la expresión matemática para el cálculo recursivo del factorial es la siguiente.
