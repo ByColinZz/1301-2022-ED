@@ -1,7 +1,9 @@
 # Estructura de datos 1301 - 2022
 
-Repositorio de tareas y actividades para estructura de datos
-En este espacio iré dejando las tareas y actividades que tendrán pendientes para la clase, asi como fragmentos de pseudo código o código.
+Repositorio de tareas y actividades para estructura de datos.
+
+En este espacio iré dejando las tareas y actividades que tendrán pendientes para la clase, asi como fragmentos de pseudo código o código en C.
+
 Para la organización de su repositorio de Git deberá tener la siguiente jerarquía, se irá agregando más elementos a lo largo del curso
 
 ```
